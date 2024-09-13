@@ -1,0 +1,27 @@
+/* styles.css */
+.gcse-search {
+    margin: 20px 0;
+  }
+  
+  .gcse-search input.gsc-input {
+    border: 1px solid #cccccc9c;
+    border-radius: 4px;
+    padding: 8px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .gcse-search button.gsc-search-button {
+    background-color: #26ff00;
+    border: none;
+    color: whitesmoke;
+    padding: 8px 16px;
+    margin-left: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .gcse-search button.gsc-search-button:hover {
+    background-color: #0056b3;
+  }
+  

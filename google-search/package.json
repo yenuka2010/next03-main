@@ -1,0 +1,11 @@
+{
+  "name": "google-search",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.7.3",
+    "react-redux": "^9.1.2",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
+  }
+}
