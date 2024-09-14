@@ -6,45 +6,22 @@ const products = (
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/1.jpg" // Local image path
-          alt="Image 1"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg"
+          alt=""
         />
       </div>
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/2.jpg" // Local image path
-          alt="Image 2"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg"
+          alt=""
         />
       </div>
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/3.jpg" // Local image path
-          alt="Image 3"
-        />
-      </div>
-    </div>
-    <div className="grid gap-4">
-      <div>
-        <img
-          className="h-auto max-w-full rounded-lg"
-          src="/4.jpg" // Local image path
-          alt="Image 4"
-        />
-      </div>
-      <div>
-        <img
-          className="h-auto max-w-full rounded-lg"
-          src="/5.jpg" // Local image path
-          alt="Image 5"
-        />
-      </div>
-      <div>
-        <img
-          className="h-auto max-w-full rounded-lg"
-          src="/6.jpg" // Local image path
-          alt="Image 6"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg"
+          alt=""
         />
       </div>
     </div>
@@ -52,22 +29,22 @@ const products = (
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/7.jpg" // Local image path
-          alt="Image 7"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg"
+          alt=""
         />
       </div>
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/8.jpg" // Local image path
-          alt="Image 8"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg"
+          alt=""
         />
       </div>
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/9.jpg" // Local image path
-          alt="Image 9"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg"
+          alt=""
         />
       </div>
     </div>
@@ -75,22 +52,45 @@ const products = (
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/10.jpg" // Local image path
-          alt="Image 10"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg"
+          alt=""
         />
       </div>
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/11.jpg" // Local image path
-          alt="Image 11"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg"
+          alt=""
         />
       </div>
       <div>
         <img
           className="h-auto max-w-full rounded-lg"
-          src="/12.jpg" // Local image path
-          alt="Image 12"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg"
+          alt=""
+        />
+      </div>
+    </div>
+    <div className="grid gap-4">
+      <div>
+        <img
+          className="h-auto max-w-full rounded-lg"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.jpg"
+          alt=""
+        />
+      </div>
+      <div>
+        <img
+          className="h-auto max-w-full rounded-lg"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg"
+          alt=""
+        />
+      </div>
+      <div>
+        <img
+          className="h-auto max-w-full rounded-lg"
+          src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-11.jpg"
+          alt=""
         />
       </div>
     </div>
